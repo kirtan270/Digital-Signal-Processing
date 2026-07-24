@@ -4,8 +4,6 @@
 ### differentiate
 ### fft
 ### fftpack
-### integrate
-### interpolate
 ### io
 ### ndimage
 ### odr
